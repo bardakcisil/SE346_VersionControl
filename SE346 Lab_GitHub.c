@@ -8,7 +8,7 @@ int main()
 
 	printf("Z.Yaren Oguz,123456,SE\n");
 
-	printf("Işıl Bardakcı,18243610028,ISE\n");
+	printf("Ozge Tekin,987654,SE\n");
 
 	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
@@ -26,5 +26,5 @@ int main()
 
 	printf("Batuhan Ulusal,18243510046,Cmpe \n");
 
-	printf("Işıl Bardakcı,182436,ISE\n");
+	printf("Işıl Bardakcı,18243610028,ISE\n");
 }
